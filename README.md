@@ -5,7 +5,7 @@ I'm a student at the International Hellenic University, studying in the Departme
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimNikou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimNikou&langs_count=3&theme=tokyonight)
 
 
 
