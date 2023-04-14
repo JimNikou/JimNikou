@@ -1,7 +1,7 @@
 ### Hi there, I'm **Dimitris** 👋
 
 
-I'm a student at the International Hellenic University, studying on the Department of Computer, Informatics and Telecommunications Engineering
+I'm a student at the International Hellenic University, studying in the Department of Computer, Informatics and Telecommunications Engineering
 
 
 
