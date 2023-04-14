@@ -22,7 +22,7 @@
 </p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jimnikou&show_icons=true&locale=en&theme=tokyonight&PAT_1=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" alt="jimnikou" /> 
+<p>&nbsp;
  <img src="http://github-readme-streak-stats.herokuapp.com?user=JimNikou&theme=tokyonight"/></p>
 
 
@@ -32,6 +32,8 @@
 
 <!--
 **JimNikou/JimNikou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jimnikou&show_icons=true&locale=en&theme=tokyonight" alt="jimnikou" /> 
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JimNikou&theme=tokyonight)](https://git.io/streak-stats) 
