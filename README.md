@@ -22,8 +22,7 @@
 </p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jimnikou&show_icons=true&locale=en&theme=tokyonight" alt="jimnikou" /></p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JimNikou&theme=tokyonight)](https://git.io/streak-stats)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jimnikou&show_icons=true&locale=en&theme=tokyonight" alt="jimnikou" /></p>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JimNikou&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
