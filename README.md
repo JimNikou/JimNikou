@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dimitris Nikou.</h1>
 <h3 align="center">I'm a student at the International Hellenic University, studying in the Department of Computer, Informatics and Telecommunications Engineering.</h3>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JimNikou&theme=dark&background=000000)](https://git.io/streak-stats)
+
 - 🔭 I’m currently working on [the REM Engineer Assistant Application!](https://github.com/Rem-Ihu/rem-ng-assist.git)
 
 - 🌱 I’m currently learning **ElectronJS!**
