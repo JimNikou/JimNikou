@@ -22,7 +22,8 @@
 </p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jimnikou&show_icons=true&locale=en&theme=tokyonight" alt="jimnikou" /><img src="http://github-readme-streak-stats.herokuapp.com?user=JimNikou&theme=tokyonight"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jimnikou&show_icons=true&locale=en&theme=tokyonight" alt="jimnikou" /> 
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=JimNikou&theme=tokyonight"/></p>
 
 
 
