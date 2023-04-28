@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dimitris Nikou.</h1>
+<h1 align="center">Hi, I'm Dimitris Nikou.</h1>
 <h3 align="center">I'm a student at the International Hellenic University, studying in the Department of Computer, Informatics and Telecommunications Engineering.</h3>
 
 - 🔭 I’m currently working on [the REM Engineer Assistant Application!](https://github.com/Rem-Ihu/rem-ng-assist.git)
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dimnikou3@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://instagram.com/_jim_nik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jim_nik_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jimnikou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jimnikou" height="30" width="40" /></a>
