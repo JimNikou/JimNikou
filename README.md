@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Dimitris Nikou.</h1>
 <h3 align="center">I'm a student at the International Hellenic University, studying in the Department of Computer, Informatics and Telecommunications Engineering.</h3>
 
-- 🔭 I’m currently working on [the REM Engineer Assistant Application!](https://github.com/Rem-Ihu/rem-ng-assist.git)
+- 🔭 I’m currently working on [the new REM Engineer Assistant Application!](https://github.com/Rem-Ihu/rem-ng-assist.git)
 
-- 🌱 I’m currently learning **ElectronJS!**
+- 🌱 I’m currently learning **Java using the IntelliJ IDE!**
 
 - 📫 How to reach me **dimnikou3@gmail.com**
 
