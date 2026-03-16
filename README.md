@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Dimitris Nikou.</h1>
 <h3 align="center">I'm a student at the International Hellenic University, studying in the Department of Computer, Informatics and Telecommunications Engineering.</h3>
 
-- 🔭 I’m currently working on [the Loopify application!](https://github.com/Rem-Ihu/rem-ng-assist.git)
+- 🔭 I’m currently working on [the CyberControl Aurora application](https://github.com/Admin-or-Admin)
 
-- 🌱 I’m currently learning **Java using the Android Studio IDE!**
+- 🌱 I’m currently learning **Java using the Android Studio IDE**
 
 - 📫 How to reach me **dimnikou3@gmail.com**
 
