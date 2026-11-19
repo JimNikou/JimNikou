@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Dimitris Nikou.</h1>
+<h1 align="center">Hi, I'm Dimitrios Nikou.</h1>
 <h3 align="center">I'm a PhD candidate at the International Hellenic University, studying in the Department of Computer, Informatics and Telecommunications Engineering.</h3>
 
 - I’m currently working on [the CyberControl Aurora application](https://github.com/Admin-or-Admin)
 
 - I’m currently learning **Java using the Android Studio IDE**
 
-- 📫 How to reach me **dimnikou3@gmail.com**
+- How to reach me **dimnikou3@gmail.com**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
